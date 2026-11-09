@@ -27,3 +27,29 @@ src/
   data/        seed.js (mock data and constants)
   utils/       validators.js, format.js
 ```
+## Internship Project Information
+
+- **Organization:** Infobharat Interns
+- **Internship Program:** Web Development
+- **Task ID:** B129
+- **Project Name:** NexaCRM – Customer Relationship Management System
+
+## Key Learning Outcomes
+
+- React component-based development
+- Responsive UI development
+- State management using React Context
+- Form validation and error handling
+- Customer and lead management interfaces
+- Git and GitHub version control
+
+## Project Repository
+
+GitHub: https://github.com/Shubhamsrivastav-221/web-Application-B-129
+
+## Author
+
+**Shubham Srivastav**
+
+
+
